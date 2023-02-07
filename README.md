@@ -1,2 +1,2 @@
-# Persistant-memory
+# Persistent-memory
 Portfolio
